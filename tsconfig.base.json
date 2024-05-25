@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@skin-nx-next-keystone-demo/ui": ["ui/src/index.ts"],
+      "@skin-nx-next-keystone-demo/ui/server": ["ui/src/server.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
