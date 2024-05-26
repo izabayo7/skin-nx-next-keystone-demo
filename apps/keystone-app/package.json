@@ -1,0 +1,16 @@
+{
+  "name": "keystone-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "keystone dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keystone-6/core": "^6.1.0",
+    "typescript": "^5.4.5"
+  }
+}
